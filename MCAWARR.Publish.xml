@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://is-mscrm-test/DeKalbWebApps" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="MCAWARRANT" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="MCAWARRANT TEST SERVER" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="dcg/iegindina" savePWD="False" userPWD="" SelectedForPublish="True" />
+</publishData>
